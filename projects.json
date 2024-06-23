@@ -1,0 +1,31 @@
+{
+    "projects": [
+        {
+            "name": "Code Window Store",
+            "image": "../assets/imgs/projects/codewindow.png",
+            "description": "It is a desktop application project for transactions between the customer and the store using Electron.js, Node.js, and Express.js.",
+            "time": "12 April 2024",
+            "linkpreview": "https://codewindowfrontdemo.netlify.app",
+            "linkgithub": "git",
+            "who": "Desktop app"
+        },
+        {
+            "name": "Another Project Name",
+            "image": "../assets/imgs/projects/anotherproject.png",
+            "description": "Description of another project.",
+            "time": "15 May 2024",
+            "linkpreview": "https://example.com",
+            "linkgithub": "git",
+            "who": "Web app"
+        },
+        {
+            "name": "Yet Another Project",
+            "image": "../assets/imgs/projects/yetanotherproject.png",
+            "description": "Description of yet another project.",
+            "time": "20 June 2024",
+            "linkpreview": "https://example.com",
+            "linkgithub": "git",
+            "who": "Mobile app"
+        }
+    ]
+}
